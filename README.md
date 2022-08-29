@@ -9,4 +9,5 @@ This will overload ram, start moving opened windows everywhere, if the user ente
 5. Done!
 
 # Notice
-I made this for pentesters to help hack a windows computer
+I made this for pentesters to help hack a windows computer, i do not hold
+ANY responsibility of your actions.
